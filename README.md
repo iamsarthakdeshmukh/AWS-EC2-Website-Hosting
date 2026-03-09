@@ -43,7 +43,7 @@ Technologies used:
 
 After deployment, the website can be accessed using:
 
-[<EC2-Public-IP>](http://3.25.71.116/)
+http://3.25.71.116/
 
 ---
 
